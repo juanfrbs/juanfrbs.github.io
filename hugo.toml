@@ -33,5 +33,5 @@ theme = 'customtheme'
     lineNumbersInTable = true
     noClasses = true
     noHl = false
-    style = 'dracula'
+    style = 'catppuccin-mocha'
     tabWidth = 4
