@@ -259,7 +259,29 @@ p {
   margin: 20px 0 20px 0;
 }
 
-/*404 PAGE*/
+/* TABLES */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 2em;
+}
+
+th, td {
+    border: 2px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+td {
+  color: #cba6f7;
+}
+
+tr:hover {
+    background-color: #1e1e2e;
+}
+
+
+/* 404 PAGE */
 
 .not-found-title {
   text-align: center;
