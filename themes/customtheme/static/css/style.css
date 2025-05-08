@@ -344,7 +344,11 @@ hr {
   .sections a:hover {
     color: #ddd;
   }
-  
+ 
+  table {
+     width: 80%;
+  }
+
   h2 {
     font-size: 24px;
   }
